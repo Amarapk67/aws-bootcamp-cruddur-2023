@@ -95,8 +95,15 @@ Ashish covers CLOUD security which covers AWS ordanization and the importantce o
     - System User
     - root user
   - AWS Organization SCP
-  - AWS SCP Best practices
-  - Top 5 AWS Best Security Practices 
+  - AWS SCP Best practices - check out Hashis' REPO - hashishrajan/aws-scp-best-practice-policies
+  - Top 5 AWS Best Security Practices - 
+    - Data protection and Residency in accordance to security policy
+    - Identity & Access Management w/ least privilege
+    - Governance & compliance of Aws Service being used
+        - Global vs Regional services
+        - Compliant services
+    - Shared responsibily of the Threat Detection
+    - Incident response plans to include cloud   
 
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
