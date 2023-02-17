@@ -107,6 +107,10 @@ Ashish covers CLOUD security which covers AWS ordanization and the importantce o
 
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
+
+
+https://lucid.app/lucidchart/392f3e2f-e1f3-43a5-b61e-bd6e2d465ad8/edit?view_items=qhZxTb6PKSQF&invitationId=inv_77ef0804-46dd-4c72-aa06-00c894c01ad8
+
 ### Recreate Logical Architectual Diagram in Lucid Charts
 
 ### Create an Admin User 
