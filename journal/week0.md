@@ -133,6 +133,12 @@ https://lucid.app/lucidchart/b8890afb-6886-4c93-b0d1-c80e4bdedd71/edit?viewport_
 
 ### Create a Budget
 
+I created 2 budgets per BootCamp Instructor @Andrew Brown.
+    - 1 for credit ( i have a $5 credit) so i set a budget to that.
+    - I also set a budget for zero spend ( beacause our goal in the Bootcamp is to stay bill free.
+    
+![AWS Budgets!](https://media.discordapp.net/attachments/1057351515905458279/1076238881470566551/Budgets.PNG?width=1440&height=362)
+
 
 
 
