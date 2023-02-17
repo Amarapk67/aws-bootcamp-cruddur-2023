@@ -113,9 +113,12 @@ https://lucid.app/lucidchart/392f3e2f-e1f3-43a5-b61e-bd6e2d465ad8/edit?view_item
 
 ### Recreate Logical Architectual Diagram in Lucid Charts
 I recreated Cruddur Logical Diagram Architech using Lucid Chart
-https://lucid.app/lucidchart/b8890afb-6886-4c93-b0d1-c80e4bdedd71/edit?viewport_loc=-678%2C-158%2C3328%2C1624%2C0_0&invitationId=inv_fc902cb4-6850-4f3a-99a9-3b25af082c5e
+
 
 ![Cruddur Logical design!](https://media.discordapp.net/attachments/1057351515905458279/1076229039460716614/Cruddur_Logical_Diagram.png?width=929&height=655)
+
+Here is the Url to the Design in LucidChart:
+https://lucid.app/lucidchart/b8890afb-6886-4c93-b0d1-c80e4bdedd71/edit?viewport_loc=-678%2C-158%2C3328%2C1624%2C0_0&invitationId=inv_fc902cb4-6850-4f3a-99a9-3b25af082c5e
 
 ### Create an Admin User 
 
