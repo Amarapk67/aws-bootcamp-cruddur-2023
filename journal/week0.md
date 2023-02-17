@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=OVw3RrlP-sI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgN
 The is the pre-reorded video of Free AWS Cloud BootCamp - AWS Spend Consideration, presented by Chirag
 Chirag teach us about the AWS billing console and the required alerts to set up for the AWS Cloud Boot camp specifically the free-Tier
 
-####Requirement
+#### Requirement
 You will need your AWS Free-Tier Account
 
 #### TOPICS
@@ -31,7 +31,7 @@ You will need your AWS Free-Tier Account
        - ### Free Tier Utilization
       - Click on the free tier - this is where you can track the services you are using and the forecast.
       - You can create up to 10 alarms under the Free-Tier and more than 10,  will incur a cost.
-    - 
+     
 - Billing Alert 
   - there are two methods to setup Billing alerts
   - ### Method 1
@@ -45,21 +45,18 @@ You will need your AWS Free-Tier Account
           -   
    - ### method 2 click on budget
      - create a budget ( upto 2 budget for free)
-- 
+ 
 - Cost Explorer - provides useful tools to help you gather information related to your cost and usage, analyze your cost drivers and usage trends, take actions to budget your spending, identify cost anomalies, and purchase savings plans.
 - This is where you can create report
-- 
-
-
 
 - Calculate AWS estimates cost for services suc as ec2
--   - to calculate an estimate of the ec2 or any aws services, search for service pricesing in google for example EC2
--   - seaerch ec2 pricing,
--   - go to ec2 ondemand pricing, select your region and your ec2 types: m6i
--   -get the ondemad hourly cost, which at this ttime was $0.12 per hour
--   - multiple $0.12 by 730 hours ( hours in a month) 
--   - no check the finding again aws calculato: go to calculator.aws
--     -create your scenarior and check the total in the bottom.
+    - to calculate an estimate of the ec2 or any aws services, search for service pricesing in google for example EC2
+    - seaerch ec2 pricing,
+    - go to ec2 ondemand pricing, select your region and your ec2 types: m6i
+    -get the ondemad hourly cost, which at this ttime was $0.12 per hour
+    - multiple $0.12 by 730 hours ( hours in a month) 
+    - no check the finding again aws calculato: go to calculator.aws
+    -create your scenarior and check the total in the bottom.
 
 
 
@@ -78,8 +75,6 @@ You will need your AWS Free-Tier Account
     - Trials
 
 If you spinned up a service and forget to shutdown or terminate it, you can cont open up a support case
-
-
 
 
 
