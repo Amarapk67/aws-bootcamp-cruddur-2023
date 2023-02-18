@@ -134,6 +134,10 @@ I received the following error for while attempting to run/launch the AWS CLI
 
 ### Create a Billing Alarm
 
+Created a Billing alarm,
+![AWS Billing Alarm!](https://media.discordapp.net/attachments/1057351515905458279/1076544331059576832/Billing_Alert.png?width=1440&height=238)
+
+
 ### Create a Budget
 
 I created 2 budgets per BootCamp Instructor @Andrew Brown.
