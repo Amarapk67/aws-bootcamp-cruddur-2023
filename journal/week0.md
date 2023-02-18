@@ -121,11 +121,16 @@ Here is the Url to the Design in LucidChart:
 https://lucid.app/lucidchart/b8890afb-6886-4c93-b0d1-c80e4bdedd71/edit?viewport_loc=-678%2C-158%2C3328%2C1624%2C0_0&invitationId=inv_fc902cb4-6850-4f3a-99a9-3b25af082c5e
 
 ### Create an Admin User 
+i created an IAM admin user to reduce the risk of root account usage.
 
+![AWS IAM Admin credntial!](https://media.discordapp.net/attachments/1057351515905458279/1076545457779658802/iam_admin_user.png?width=1440&height=431)
 
 ### Use CloudShell
 
 ### Generate AWS Credentials
+i created an IAM admin user to reduce the risk of root account usage.
+
+![AWS IAM Admin credntial!](https://media.discordapp.net/attachments/1057351515905458279/1076545457779658802/iam_admin_user.png?width=1440&height=431)
 
 ### Installed AWS CLI
 
