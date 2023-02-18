@@ -129,6 +129,9 @@ https://lucid.app/lucidchart/b8890afb-6886-4c93-b0d1-c80e4bdedd71/edit?viewport_
 
 ### Installed AWS CLI
 
+I received the following error for while attempting to run/launch the AWS CLI
+![AWS CLI error!](https://media.discordapp.net/attachments/1057351515905458279/1076543082033582189/aws_cli_error.png?width=1440&height=211)
+
 ### Create a Billing Alarm
 
 ### Create a Budget
