@@ -137,6 +137,19 @@ i created an IAM admin user to reduce the risk of root account usage.
 I received the following error for while attempting to run/launch the AWS CLI
 ![AWS CLI error!](https://media.discordapp.net/attachments/1057351515905458279/1076543082033582189/aws_cli_error.png?width=1440&height=211)
 
+This was a major problem for and needed to be resolved imeediately if i was ever going to participate on the hands on task especially once we get to AWS.
+Here are the steps implented to resolved this issue.
+-First, i attempted to run/launch aws cli environment via different browser ( Edge, FF Chrome and chrome Incognito mode and received same error
+- Then i attempted to
+- check AWSCloudShellFullAccess policy to ensure it has below JSON data.
+- deleted cloudshell home directory
+- Checked policy and no Deny Policy, assigned AWSCloudShellFullAccess policy to IAM user: amarasheriff
+- Check account status: account was not verified
+- Opened a support case
+- spent over an hour chatting with AWS support to verified my account
+- I was able answer all question correctly and they verified my account and reinstated it.
+    
+
 ### Create a Billing Alarm
 
 Created a Billing alarm,
