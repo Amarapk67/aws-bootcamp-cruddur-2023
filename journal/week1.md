@@ -1,4 +1,4 @@
-# Week 1 — App Containerization
+# Week 1 — App Containerization Hoomeworkk
 
 ## Here is quick summary of week one of AWS cloud bootcamp:
 - First we Launch our project code  via Gitpod,
@@ -15,7 +15,7 @@
 ![Backend json notification!](https://media.discordapp.net/attachments/1057351515905458279/1082677326589988874/backend_json_api_for_activities_notifications_2.PNG?width=749&height=364)
 
 
-# Week 1 — App Containerization
+# Week 1 — App Containerization Notes
 
 ## References
 
