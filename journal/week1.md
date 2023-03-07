@@ -10,4 +10,6 @@ Here is quick summary of week one of AWS cloud bootcamp:
   We containerized Postgres and DynamoDB local by adding them to the docker come yml.
   
   
-![Cruddur conceptual design!](https://media.discordapp.net/attachments/1062026279840387193/1078360328951320576/image.png?width=1259&height=597)
+![Front end Notification!](https://media.discordapp.net/attachments/1057351515905458279/1082677326925541377/front_notifications.PNG?width=749&height=326)
+
+![Backend json notification!](https://media.discordapp.net/attachments/1057351515905458279/1082677326589988874/backend_json_api_for_activities_notifications_2.PNG?width=749&height=364)
