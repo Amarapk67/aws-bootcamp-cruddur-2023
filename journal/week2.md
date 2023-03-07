@@ -9,7 +9,8 @@
 
 ### Instrument AWS X-Ray for Flask
 
-```export AWS_REGION="ca-central-1"
+```sh
+export AWS_REGION="ca-central-1"
 gp env AWS_REGION="ca-central-1"
 ```
 
