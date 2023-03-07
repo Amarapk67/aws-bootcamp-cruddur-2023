@@ -1,6 +1,6 @@
 # Week 1 — App Containerization
 
-Here is quick summary of week one of AWS cloud bootcamp:
+## Here is quick summary of week one of AWS cloud bootcamp:
 - First we Launch our project code  via Gitpod,
 - then we contanerized our app ( Frontend and Backend) using dockerfile created in frontend-react-js and backend-flask directories.
 - created a docker-compose yml file in the root directory and add both front end and backend environments so we could run or stop both containers.
