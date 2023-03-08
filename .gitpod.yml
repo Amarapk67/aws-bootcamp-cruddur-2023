@@ -13,7 +13,7 @@ tasks:
   - name: Install npm
     init: |
       cd /workspace/aws-bootcamp-cruddur-2023/frontend-react-js 
-      npm Install
+      npm i
       
 
 vscode:
