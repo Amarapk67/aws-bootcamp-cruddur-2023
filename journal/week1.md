@@ -48,7 +48,7 @@ cd ..
 - append to the url to `/api/activities/home`
 - you should get back json
 
-
+![Front end Notification!](https://media.discordapp.net/attachments/1057351515905458279/1082677326925541377/front_notifications.PNG?width=749&height=326)
 
 ### Add Dockerfile
 
