@@ -15,10 +15,6 @@ tasks:
       sudo apt update
       sudo apt install -y postgresql-client-13 libpq-dev
 
-vscode:
-  extensions:
-    - 42Crunch.vscode-openapi
-
 ports:
   - name: frontend
     port: 3000
@@ -35,3 +31,7 @@ ports:
     port: 8000
     visibility: public
 
+vscode:
+  extensions:
+    - 42Crunch.vscode-openapi
+    - cweijan.vscode-postgresql-client2
