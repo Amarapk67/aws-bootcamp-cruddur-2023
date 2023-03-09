@@ -11,7 +11,7 @@ tasks:
 
 
   - name: react-js
-    init: |
+    command: |
       cd frontend-react-js
       npm i
 
