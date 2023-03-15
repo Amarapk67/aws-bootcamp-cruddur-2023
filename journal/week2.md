@@ -50,3 +50,44 @@ XRayMiddleware(app, xray_recorder)
 
 ## Rollbar
 
+
+# Observability VS Monitoring 
+
+## Loggin sucks
+- Time consuming
+- tons of data w/o context for why of the security event
+- Niddle in the haystack
+- monolith vs services vs microservices
+- modern apps are distributed
+- many more haystacks cone and more needles
+- Increase alert fatigue for soc teams and App teams (SRE, DevOps etc)
+
+## Why Observability
+- posibility for decrease alert fatigue or security operation team
+- Visibility of end2end of logs, metricks and tracing
+- Troubleshoot and resolve things quickly w/o too much money
+- understand application health
+- accelerate collaboration b/t team
+- RTeduce overall operational cost
+- Increase custoemr satisfaction
+
+## Observability vs Monitoring
+- Observavalities has 3 traces
+-   - Metrics
+-   - traces - 
+-   - logs
+
+AWS Observability services
+- AWS CloudWatch Logs - uncovering emergent and unpredictable behaviours
+- AWS CloudWatch Metrics - indentifying trend, mathematical medeling and prediction
+- AWS Xray traces - provides viosibility into both the path traversed by a request as well as the structure
+
+
+
+
+
+
+
+
+
+
