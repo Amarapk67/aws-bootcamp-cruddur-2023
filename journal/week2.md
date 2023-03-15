@@ -85,6 +85,25 @@ AWS Observability services
 
 
 
+# FreeTier for Observability: Logging - AWS Bootcamp Week 2 - Honeycomb, Rollbar, AWS X-Ray and AWS Cloudwatch Logs pricing considerations
+- HoneyComb - free account ( 20 million event free - under freetier)
+- Rollbar - error logging service
+-   freetier ( 5k event per month and 30 day retentions)
+- AWS Services
+-   Xray 
+-     - 100,000 AWS xray traces per month
+-  CloudWatch Log
+-   - 10 customer metrics and alarms
+-   - 5 gb of log of data inectiona nd data archiving
+-   - 1, 000,000 API Request
+-   - 3 dashboards with upto 50 metrics each month 
+-   - to store in s3, there will be charges involved
+
+
+
+
+
+
 
 
 
