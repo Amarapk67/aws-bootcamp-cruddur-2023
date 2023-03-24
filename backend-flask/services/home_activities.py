@@ -41,4 +41,4 @@ class HomeActivities:
       'replies': []
     }
     ]
-     results
+    return results
