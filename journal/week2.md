@@ -1,37 +1,29 @@
 # Week 2 — Distributed Tracing HomeWork
 
 
--Instrument our backend flask application to use Open Telemetry (OTEL) with
--Honeycomb.io as the provider
--Run queries to explore traces within Honeycomb.io
--Instrument AWS X-Ray into backend flask application
--Configure and provision X-Ray daemon within docker-compose and send data back to X-Ray API
--Observe X-Ray traces within the AWS Console
--Integrate Rollbar for Error Logging
--Trigger an error an observe an error with Rollbar
--Install WatchTower and write a custom logger to send application log data to - CloudWatch Log group
-
-
-
-
-
-
 ## Summary
 
 -Use Open Telemetry (OTEL) to instrument backend flask application
-[# Week 2 — Distributed Tracing](https://github.com/Amarapk67/aws-bootcamp-cruddur-2023/blob/main/assests/HoneyComb.png)
 
 -Use Honeycomb.io as provider for OTEL and explore traces with queries
+![HoneyComb](https://github.com/Amarapk67/aws-bootcamp-cruddur-2023/blob/main/assests/HoneyComb.png)
 
 -Instrument AWS X-Ray into backend flask application
+![XRAY](https://github.com/Amarapk67/aws-bootcamp-cruddur-2023/blob/main/assests/xRay.png)
 
 -Configure and provision X-Ray daemon within docker-compose to send data back to X-Ray API
 
 -Observe X-Ray traces within the AWS Console
+![XRAY](https://github.com/Amarapk67/aws-bootcamp-cruddur-2023/blob/main/assests/xRay.png)
 
 -Integrate Rollbar for Error Logging and observe errors
+![ROLLBAR](https://github.com/Amarapk67/aws-bootcamp-cruddur-2023/blob/main/assests/Rollbar.png)
 
 -Install WatchTower and write a custom logger to send application log data to CloudWatch Log group
+![CloudWatch Log](https://github.com/Amarapk67/aws-bootcamp-cruddur-2023/blob/main/assests/cloudwatch%20log%20on%20the%20backend%20flaskapp.png)
+
+
+
 
 ## HoneyComb
 
