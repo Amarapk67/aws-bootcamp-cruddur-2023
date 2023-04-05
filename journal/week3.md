@@ -1,7 +1,7 @@
 # Week 3 — Decentralized Authentication Note From Andrew Brown
 
 
-## Install AWS Amplify
+## Install AWS Amplify in front end
 
 ```sh
 npm i aws-amplify --save
