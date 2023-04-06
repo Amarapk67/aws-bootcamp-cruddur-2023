@@ -285,6 +285,9 @@ if (cognitoErrors){
 ## Confirmation Page
 
 ```js
+
+import { Auth } from 'aws-amplify';
+
 const resend_code = async (event) => {
   setCognitoErrors('')
   try {
